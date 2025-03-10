@@ -1,0 +1,23 @@
+Zadania do samodzielnego rozwiązania:
+1. Napisz metodę określania oraz rozwiązywania równania kwadratowego ax2+bx+c=0 , gdzie a, b i
+c są dowolnymi stałymi podawanymi przez użytkownika.
+2. Napisz metody wyznaczania wartości funkcji określonych wzorami dla argumentów rzeczywistych
+podawanych przez użytkownika:
+3. Napisz metodę porządkowania trzech liczb x, y i z. Od najmniejszej do największej.
+4. Z wykorzystaniem operatorów logicznych ! (negacja), && (and) napisz metodę, który w zależności
+od spełnienia pewnych warunków wyświetla odpowiednie komunikaty:
+• Jeśli pada deszcz i jest autobus na przystanku, to „Weź parasol”, „Dostaniesz się na uczelnie”;
+• Jeśli pada deszcz i nie ma autobusu, to „Nie dostaniesz się na uczelnię”;
+• Jeśli nie pada deszcz i jest autobus na przystanku, to „Dostaniesz się na uczelnie”, „Miłego dnia
+i pięknej pogody” .
+Użytkownik podaje informacje o tym czy pada i czy jest autobus.
+5. Z wykorzystaniem operatorów logicznych ! (negacja), || (or) napisz metodę, który w zależności od
+spełnienia pewnych warunków wyświetla odpowiednie komunikaty:
+• Jeśli nie ma zniżki na samochód lub otrzymałeś premię, to „Możesz kupić samochód !”, „Zniżki
+na samochód nie ma”;
+• Jeśli nie ma zniżki na samochód lub nie otrzymałeś premii, to „Zakup samochód trzeba odłożyć
+na później...”, „Zniżki na samochód nie ma”;
+• Jeśli jest zniżka na samochód lub otrzymałeś premię, to „Możesz kupić samochód !”.
+Użytkownik podaje informacje o tym czy jest zniżka na samochód i czy otrzymałeś podwyżkę.
+6. Napisz program który w zależności od wyboru użytkownika pozwoli na wykonywanie działań
+dodawania, odejmowania, iloczynu, ilorazu i reszty z dzielenia.
