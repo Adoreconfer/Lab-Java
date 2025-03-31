@@ -68,7 +68,7 @@ public class Main {
             catch (InputMismatchException e){
                 System.out.println("Podaj liczbę całkowitą");
                 break;
-            }//ConcurrentModificationException
+            }
         }
     }
 }
