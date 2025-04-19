@@ -7,7 +7,7 @@ public class Run {
     public void RunTask(){
         Input input = new Input();
         Tasks tasks = new Tasks();
-        System.out.println("Laboratorium 1\n");
+        System.out.println("Laboratorium 9\n");
         System.out.println("Zadanie 1");
         System.out.println("Zadanie 2");
         System.out.println("Zadanie 3");
